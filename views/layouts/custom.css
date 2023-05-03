@@ -1,2 +1,2 @@
-.btn { border-radius: 0; --bs-btn-padding-x:2rem;--bs-btn-padding-y:2rem; }
+.btn { border-radius: 1; --bs-btn-padding-x:2rem;--bs-btn-padding-y:2rem; }
 .form {background-color: aqua;}
